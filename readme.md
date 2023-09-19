@@ -1,7 +1,7 @@
 
 ---
 
-# Banco de Dados - Guia Rápido
+# Banco de Dados
 
 ## Descrição
 
