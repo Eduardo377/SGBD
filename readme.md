@@ -1,7 +1,7 @@
 # Introdução descritiva sobre Banco de Dados
 
 Este guia fornece uma visão geral de alguns dos sistemas de gerenciamento de bancos de dados (SGBDs) mais populares no mercado de trabalho. Ele descreve brevemente os recursos e características principais de cada SGBD.
-## Banco de Dados Relacionais (RDBMS)
+## Banco de Dados Relacionais (SGBDs RDBMS)
 
 Os bancos de dados relacionais (RDBMS - Relational Database Management Systems) são um tipo de sistema de gerenciamento de banco de dados (SGBD) que se baseiam no modelo de dados relacional. Esse modelo organiza os dados em tabelas com linhas e colunas, formando uma estrutura tabular que é altamente estruturada e organizada. Cada tabela representa uma entidade ou tipo de informação específico, e as relações entre as tabelas são estabelecidas por meio de chaves estrangeiras. 
 
@@ -72,7 +72,7 @@ Desenvolvido pela Oracle Corporation, é um dos SGBDs mais conhecidos e amplamen
 
 <br>
 
-#### Características Principais:
+#### Características Principais de Microsoft SQL Server:
 
 <br>
 
@@ -97,7 +97,7 @@ Desenvolvido pela Oracle Corporation, é um dos SGBDs mais conhecidos e amplamen
 <br>
 
 
-#### Outros SGBDs RDBMS
+#### Outros Banco de Dados Relacionais (SGBDs RDBMS)
 
 <br>
 
@@ -118,7 +118,8 @@ Além dos SGBDs destacados, existem outros SGBD NoSQL amplamente utilizados no m
 <br>
 
 
-Importante lembrar que no mercado de trabalho, existem vários sistemas de gerenciamento de bancos de dados relacionais (SGBDs RDBMS) amplamente utilizados para armazenar, recuperar e gerenciar dados de forma eficiente. 
+Importante lembrar que no mercado de trabalho, existem vários sistemas de gerenciamento de bancos de dados relacionais (SGBDs RDBMS) amplamente utilizados para armazenar, recuperar e gerenciar dados de forma eficiente.
+Lembre-se de que os bancos de dados relacionais são ideais para cenários em que a estrutura dos dados é bem definida e as relações entre os dados são fundamentais. Eles são especialmente úteis para aplicações que requerem consistência e integridade de dados.
 ## Bancos de Dados Não Relacionais (SGBDs NoSQL)
 
 Além dos bancos de dados relacionais, existem os bancos de dados não relacionais, também conhecidos como NoSQL (Not Only SQL). Esses sistemas de gerenciamento de dados são projetados para lidar com tipos de dados não estruturados ou semi-estruturados e oferecem flexibilidade em termos de esquema de dados.
@@ -199,7 +200,8 @@ Além dos SGBDs destacados, existem outros SGBD NoSQL amplamente utilizados no m
 
 <br>
 
-Importante lembrar que no mercado de trabalho, existem vários sistemas de gerenciamento de bancos de dados não relacionais (SGBDs NoSQL) amplamente utilizados para armazenar, recuperar e gerenciar dados de forma eficiente. 
+Importante lembrar que no mercado de trabalho, existem vários sistemas de gerenciamento de bancos de dados não relacionais (SGBDs NoSQL) amplamente utilizados para armazenar, recuperar e gerenciar dados de forma eficiente.
+Os bancos de dados NoSQL são ideais para cenários em que a estrutura dos dados é variável, os volumes de dados são grandes e a flexibilidade é necessária. Eles são frequentemente usados em aplicativos da web, análise de big data, IoT e muito mais.
 
 ## Como Escolher um SGBD
 
